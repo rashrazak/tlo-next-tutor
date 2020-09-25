@@ -1,5 +1,3 @@
 node_modules
 .next
-.env
-nohup.out
 package-lock.json
